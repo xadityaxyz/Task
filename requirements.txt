@@ -1,0 +1,4 @@
+# Specify the required Python packages.
+
+boto3
+pymysql
